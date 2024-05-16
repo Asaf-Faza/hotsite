@@ -406,7 +406,10 @@ header a{
 .faixa .column .socials a{
     text-decoration: none;
     color: #fff;
-    margin:1rem;
+    margin: 0rem 0.2rem 0rem 0.2rem;
+}
+.faixa .column .socials{
+    margin-top: 3rem;
 }
 footer{
     border-top: 2px solid #fff;

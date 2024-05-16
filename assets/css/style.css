@@ -391,8 +391,6 @@ header a{
 }
 .faixa .column .input input{
     width: 10rem;
-}
-.faixa .column .input input::placeholder{
     padding-left: 1rem;
 }
 .faixa .column .input input,
